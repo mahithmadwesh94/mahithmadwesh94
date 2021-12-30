@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1_I6kMDT25c3yxSqF2i2EG_ePYxsmddcIgpyhkif_qb0/edit?usp=sharing](https://docs.google.com/document/d/1_I6kMDT25c3yxSqF2i2EG_ePYxsmddcIgpyhkif_qb0/edit?usp=sharing)
 
-- ⚡ Fun fact **I love RCB(ESCM) , Coffee (Black), watching Naruto / Dragonball Z**
+- ⚡ Fun fact **I love RCB(ESCM) , Coffee (Black), watching Anime (Naruto / Dragonball Z)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
