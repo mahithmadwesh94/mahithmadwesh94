@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mahith Madwesh</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h3 align="center">A passionate Salesforce developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahithmadwesh94&label=Profile%20views&color=0e75b6&style=flat" alt="mahithmadwesh94" /> </p>
 
-- 🔭 I’m currently working on **Service Appointment Booking - MERN Application**
+- 🔭 I’m currently working in **Salesforce India**
 
-- 🌱 I’m currently learning **MERN, Webpack,Typescript**
+- 🌱 I’m currently learning **Salesforce AI**
 
-- 👯 I’m looking to collaborate on **React,Node,MongoDB**
+- 👯 I’m looking to collaborate on **Apex, LWC solutions to solve business challenges**
 
 - 🤝 I’m looking for help with **Typescript, Webpack, babel**
 
@@ -15,13 +15,13 @@
 
 - 📝 I regularly write articles on [https://mahith-madwesh.medium.com/](https://mahith-madwesh.medium.com/)
 
-- 💬 Ask me about **react, Node.js, express, MongoDB**
+- 💬 Ask me about **Service Cloud, Sales Cloud, LWC, Apex, Aura**
 
 - 📫 How to reach me **mahith.madwesh@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1_I6kMDT25c3yxSqF2i2EG_ePYxsmddcIgpyhkif_qb0/edit?usp=sharing](https://docs.google.com/document/d/1_I6kMDT25c3yxSqF2i2EG_ePYxsmddcIgpyhkif_qb0/edit?usp=sharing)
 
-- ⚡ Fun fact **I love RCB(ESCM) , Coffee (Black), watching Anime (Naruto / Dragonball Z)**
+- ⚡ Fun fact **I love RCB(ESCM) , Coffee (Black), watching Anime (Naruto / Dragonball Z), Avid Valorant Player**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
